@@ -1,0 +1,22 @@
+This is some text.
+Today is Friday, October 22, 2021.
+Let's try some special characters!
+
+!
+@
+#
+$
+%
+^
+&
+*
+(
+)
+_
+-
++
+=
+
+wow that works!
+
+Goodbye.
